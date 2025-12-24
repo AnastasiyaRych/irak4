@@ -1,0 +1,69 @@
+Ligand,Protein,ALA_A:211,ALA_A:315,ARG_A:273,ASN_A:267,ASN_A:316,ASP_A:272,ASP_A:278,ASP_A:329,GLU_A:194,GLU_A:233,GLY_A:268,HIS_A:309,ILE_A:185,ILE_A:308,ILE_A:327,LEU_A:277,LEU_A:318,LYS_A:213,LYS_A:313,MET_A:192,MET_A:265,PHE_A:330,PRO_A:266,SER_A:269,SER_A:328,THR_A:280,TYR_A:262,TYR_A:264,VAL_A:200,VAL_A:236,VAL_A:246,VAL_A:263
+T20,4RMZ,hydrophobic,0,0,0,0,0,0,0,0,0,0,0,hydrophobic,0,0,0,hydrophobic,0,0,0,hbond,0,0,0,0,hydrophobic,hydrophobic,hydrophobic,hydrophobic,0,hydrophobic,0
+STU,4U9A,0,hbond,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hydrophobic,hydrophobic,0,0,hbond,0,0,0,0,0,hydrophobic,0,0,0,0,0
+42P,4XS2,0,0,0,0,0,0,0,hydrophobic,0,0,0,0,0,0,0,0,hydrophobic,hydrophobic,0,0,hbond,0,0,hbond,0,0,hydrophobic,hbond,hydrophobic,0,0,halogen
+XPY,4Y73,hydrophobic,hbond,waterbridge,0,0,halogen,0,hbond,0,0,0,0,0,0,0,0,0,0,0,0,hbond,0,0,0,0,0,0,0,hydrophobic,0,0,0
+4GD,4YO6,hydrophobic,0,waterbridge,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hbond,0,0,0,0,0,0,hydrophobic,hydrophobic,0,0,0
+4GF,4YP8,hydrophobic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hydrophobic,hbond,0,0,0,0,0,0,0,hydrophobic,0,0,0
+4S1,4ZTL,hydrophobic,0,0,0,0,0,0,hydrophobic,0,0,0,0,0,0,0,0,hydrophobic,0,0,0,hbond,0,0,hbond,0,0,hydrophobic,hydrophobic,hydrophobic,0,hydrophobic,0
+4S2,4ZTM,0,0,0,0,0,hbond,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hbond,0,0,0,0,0,hydrophobic,0,0,0,hydrophobic,0
+4S3,4ZTN,0,0,0,0,0,hbond,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hbond,0,0,0,0,0,hydrophobic,0,hydrophobic,0,hydrophobic,0
+6QY,5K72,hydrophobic,0,0,0,0,saltbridge,0,0,0,0,0,0,0,0,0,0,hydrophobic,hbond,0,0,hbond,0,0,waterbridge,0,0,hydrophobic,0,hydrophobic,0,0,0
+6QX,5K75,0,waterbridge,waterbridge,0,0,saltbridge,0,0,0,0,0,0,0,0,0,0,hydrophobic,0,0,0,hbond,0,0,waterbridge,0,0,hydrophobic,0,0,0,0,0
+6R1,5K76,hydrophobic,0,0,0,0,saltbridge,0,0,waterbridge,0,0,0,0,0,0,0,hydrophobic,hbond,0,0,hbond,0,0,0,0,0,hydrophobic,0,hydrophobic,0,0,0
+6R0,5K7G,hydrophobic,0,0,0,0,saltbridge,0,0,0,0,0,0,0,0,0,hydrophobic,hydrophobic,hbond,0,0,hbond,0,0,0,0,0,hydrophobic,0,hydrophobic,0,0,0
+6QZ,5K7I,hydrophobic,0,0,0,0,saltbridge,0,0,hbond,0,0,0,0,0,0,hydrophobic,hydrophobic,0,0,0,hbond,0,0,0,0,0,hydrophobic,0,hydrophobic,0,0,0
+6YD,5KX7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6YE,5KX8,hydrophobic,0,0,0,0,hbond,0,0,0,0,0,0,0,0,0,0,hydrophobic,0,0,0,hbond,0,0,0,0,0,0,0,0,0,0,0
+76Q,5T1S,hydrophobic,0,0,0,0,hbond,0,hbond,0,hbond,0,0,0,0,0,0,hydrophobic,0,0,hydrophobic,hbond,0,0,0,0,0,"hydrophobic, pistacking",0,0,0,hydrophobic,0
+76P,5T1T,hydrophobic,0,0,0,0,saltbridge,0,0,0,0,0,0,0,0,0,0,hydrophobic,0,0,0,hbond,0,0,0,0,0,hydrophobic,0,0,0,0,0
+8BV,5UIQ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hbond,0,0,0,0,0,hydrophobic,0,hydrophobic,0,hydrophobic,hbond
+8BY,5UIR,0,hydrophobic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hydrophobic,hydrophobic,hbond,0,hbond,0,0,0,0,0,hydrophobic,0,hydrophobic,0,0,hbond
+8C1,5UIS,0,0,0,0,0,0,0,waterbridge,0,0,0,0,0,0,0,0,hydrophobic,0,0,0,hbond,0,0,0,waterbridge,0,hydrophobic,0,hydrophobic,0,hydrophobic,hbond
+8CD,5UIT,0,hbond,0,0,0,0,0,0,0,0,waterbridge,0,0,0,0,0,hydrophobic,waterbridge,0,0,hbond,0,0,waterbridge,hbond,0,hydrophobic,0,0,0,hydrophobic,hbond
+8CG,5UIU,hydrophobic,hbond,0,0,waterbridge,0,0,0,0,0,0,0,0,0,0,0,hydrophobic,waterbridge,0,0,hbond,0,0,waterbridge,0,0,0,0,hydrophobic,0,0,hbond
+9YY,5W84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hydrophobic,hbond,0,hydrophobic,hbond,0,0,0,0,0,"hydrophobic, pistacking",0,hydrophobic,0,hydrophobic,hbond
+9YS,5W85,hydrophobic,0,waterbridge,0,0,hbond,0,waterbridge,0,0,0,0,0,0,0,0,hydrophobic,0,0,0,hbond,0,0,waterbridge,waterbridge,0,"hydrophobic, pistacking",0,hydrophobic,0,hydrophobic,hbond
+0LI,6EG9,0,0,0,0,0,0,0,"hbond, saltbridge",0,hbond,0,pication,0,0,halogen,0,0,0,0,0,hbond,hydrophobic,0,0,0,0,"hydrophobic, pistacking",hydrophobic,0,hydrophobic,0,0
+J8A,6EGA,hydrophobic,0,0,0,0,0,0,"hbond, hydrophobic, saltbridge",0,"hbond, hydrophobic",0,pication,0,hbond,halogen,0,hydrophobic,hydrophobic,0,0,hbond,pistacking,0,0,0,0,"hydrophobic, pistacking",hydrophobic,hydrophobic,0,0,0
+J87,6EGD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DL1,6EGE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CJT,6F3D,hydrophobic,0,waterbridge,0,0,saltbridge,0,0,0,hbond,0,0,0,0,0,0,hydrophobic,0,0,0,hbond,0,0,0,0,0,hydrophobic,0,hydrophobic,0,0,0
+CJQ,6F3E,hydrophobic,0,0,0,0,saltbridge,0,0,0,0,0,0,0,0,0,0,hydrophobic,0,0,0,hbond,0,0,0,hbond,0,hydrophobic,0,hydrophobic,0,0,0
+CJN,6F3G,hydrophobic,0,0,0,0,saltbridge,0,0,0,0,0,0,0,0,0,0,hydrophobic,0,0,0,hbond,0,0,0,0,0,hydrophobic,0,hydrophobic,0,0,0
+CKN,6F3I,0,hbond,0,0,0,saltbridge,0,0,0,0,0,0,0,0,0,0,hydrophobic,0,0,0,hbond,0,0,waterbridge,0,0,hydrophobic,0,hydrophobic,0,0,0
+EXF,6LXY,0,0,waterbridge,0,0,waterbridge,0,"hbond, waterbridge",0,0,0,0,0,0,0,waterbridge,hydrophobic,0,0,0,hbond,0,0,0,0,hydrophobic,"pistacking, waterbridge",0,hydrophobic,0,0,hbond
+JX4,6MOM,0,hbond,0,0,0,0,0,hbond,waterbridge,0,0,0,0,0,0,0,hydrophobic,0,0,0,hbond,0,0,waterbridge,hbond,0,hydrophobic,hydrophobic,hydrophobic,0,0,0
+KFD,6N8G,hydrophobic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hydrophobic,hbond,0,0,hbond,0,0,0,0,0,"hbond, hydrophobic, pistacking",hbond,hydrophobic,0,hydrophobic,0
+LS7,6O8U,hydrophobic,0,waterbridge,0,0,0,0,0,0,0,0,0,hydrophobic,0,0,0,hydrophobic,0,0,hydrophobic,hbond,0,0,waterbridge,0,0,0,hydrophobic,0,0,0,0
+LRS,6O94,hydrophobic,0,waterbridge,0,waterbridge,0,0,waterbridge,0,0,0,0,0,0,0,0,hydrophobic,waterbridge,0,hydrophobic,hbond,0,0,waterbridge,0,0,0,0,hydrophobic,0,0,waterbridge
+LSV,6O95,hydrophobic,0,waterbridge,0,0,0,0,0,waterbridge,0,0,0,0,0,0,0,0,0,0,hydrophobic,hbond,0,0,waterbridge,0,0,0,hydrophobic,0,0,0,waterbridge
+LTY,6O9D,hydrophobic,hbond,0,0,0,waterbridge,0,waterbridge,0,0,0,0,0,0,0,0,hydrophobic,0,0,hydrophobic,hbond,0,0,0,0,0,pistacking,hydrophobic,hydrophobic,0,0,0
+K1H,6RFI,hydrophobic,0,0,0,0,saltbridge,0,waterbridge,saltbridge,0,0,0,0,0,0,0,hydrophobic,hbond,0,0,hbond,0,0,0,0,0,hydrophobic,0,hydrophobic,0,0,0
+K1E,6RFJ,hydrophobic,0,0,0,0,saltbridge,0,0,0,0,0,0,0,0,0,0,hydrophobic,0,0,0,hbond,0,0,0,0,0,hydrophobic,0,hydrophobic,0,0,0
+NBK,6THW,hydrophobic,0,0,0,0,0,0,hbond,0,0,0,0,0,0,0,0,0,0,0,hydrophobic,hbond,0,0,0,waterbridge,0,pistacking,0,0,0,0,0
+N9Z,6THX,hydrophobic,0,0,0,0,0,waterbridge,0,0,0,0,0,0,0,0,0,hydrophobic,0,0,0,hbond,0,0,0,waterbridge,0,hydrophobic,0,0,0,0,0
+NB5,6THZ,hydrophobic,0,0,0,0,0,0,hbond,0,0,0,0,0,0,0,0,hydrophobic,hydrophobic,0,hydrophobic,hbond,0,0,0,0,0,pistacking,0,0,0,0,0
+NBW,6TI8,hydrophobic,0,0,0,0,0,0,waterbridge,0,0,0,0,hydrophobic,0,0,0,hydrophobic,0,0,hydrophobic,hbond,0,0,0,hbond,0,hydrophobic,0,0,0,hydrophobic,0
+ND2,6TIA,hydrophobic,0,waterbridge,0,0,0,saltbridge,hbond,0,0,0,0,0,0,0,0,hydrophobic,0,0,0,hbond,waterbridge,0,0,0,0,"hydrophobic, pistacking",0,hydrophobic,0,0,0
+QL7,6UYA,hydrophobic,0,"halogen, waterbridge",waterbridge,0,waterbridge,0,0,waterbridge,0,0,0,0,0,0,0,hydrophobic,0,0,0,hbond,0,hbond,waterbridge,0,hydrophobic,0,0,0,0,0,waterbridge
+R7S,6VQL,hydrophobic,0,"halogen, waterbridge",0,0,0,0,0,0,0,0,0,hydrophobic,0,0,0,hydrophobic,0,0,0,hbond,0,0,0,0,hydrophobic,"hydrophobic, pistacking",hbond,hydrophobic,0,hydrophobic,hbond
+FJ0,7C2V,0,0,waterbridge,0,0,waterbridge,0,hbond,waterbridge,0,0,0,0,0,0,0,hydrophobic,hbond,0,0,hbond,0,0,waterbridge,0,0,hydrophobic,hydrophobic,0,0,0,0
+FJ9,7C2W,hydrophobic,0,hbond,0,0,0,0,hbond,0,0,0,0,0,0,0,0,hydrophobic,0,0,hydrophobic,hbond,0,0,0,0,0,hydrophobic,0,hydrophobic,0,0,0
+B8I,7QG1,hydrophobic,0,0,0,0,saltbridge,0,waterbridge,waterbridge,0,0,0,0,0,0,0,0,hbond,0,0,hbond,0,0,waterbridge,0,0,0,0,hydrophobic,0,0,0
+B6I,7QG2,hydrophobic,0,waterbridge,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hydrophobic,hbond,0,0,0,0,0,0,0,0,0,0,0
+B4U,7QG3,hydrophobic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hbond,0,0,0,waterbridge,0,hydrophobic,0,hydrophobic,0,0,0
+B7R,7QG5,hydrophobic,0,waterbridge,0,0,0,0,hbond,0,0,0,0,0,0,0,0,0,hbond,0,0,hbond,0,0,0,waterbridge,0,pistacking,0,0,0,0,0
+SO9,8DKS,hydrophobic,hbond,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hydrophobic,0,0,hydrophobic,hbond,0,0,0,0,hydrophobic,0,hydrophobic,hydrophobic,0,0,0
+ZVD,8SCE,0,0,waterbridge,0,0,waterbridge,waterbridge,0,0,0,0,0,0,0,0,0,0,0,0,waterbridge,hbond,0,0,0,0,hydrophobic,waterbridge,0,hydrophobic,0,0,hbond
+ZVG,8SCV,0,0,waterbridge,0,0,0,waterbridge,hbond,0,0,0,0,0,0,0,0,hydrophobic,hbond,0,hbond,hbond,0,0,waterbridge,waterbridge,hydrophobic,hydrophobic,0,hydrophobic,0,0,hbond
+ZVA,8SCW,0,0,"halogen, waterbridge",0,0,waterbridge,0,hbond,0,0,0,0,0,0,0,0,hydrophobic,hbond,0,0,hbond,0,0,0,0,hydrophobic,hydrophobic,0,hydrophobic,0,hydrophobic,0
+VDC,8TVM,hydrophobic,0,0,0,0,waterbridge,"hydrophobic, waterbridge",0,0,0,0,0,0,0,0,0,hydrophobic,0,0,0,hbond,0,0,waterbridge,0,hydrophobic,hydrophobic,hydrophobic,hydrophobic,0,0,0
+VE9,8TVN,hydrophobic,0,waterbridge,0,0,0,"hydrophobic, waterbridge",0,0,0,0,0,0,0,0,0,hydrophobic,0,0,0,hbond,0,0,waterbridge,0,hydrophobic,hydrophobic,hydrophobic,hydrophobic,0,hydrophobic,0
+VEU,8TX0,hydrophobic,0,0,0,0,waterbridge,hydrophobic,0,0,0,0,0,0,0,0,0,hydrophobic,0,0,0,hbond,0,0,waterbridge,0,hydrophobic,hydrophobic,0,hydrophobic,0,0,0
+X1T,8UCB,hydrophobic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hydrophobic,0,0,hydrophobic,hbond,0,0,waterbridge,0,0,hydrophobic,0,hydrophobic,0,hydrophobic,0
+WFQ,8UCC,0,0,0,0,0,waterbridge,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hbond,0,0,waterbridge,0,0,hydrophobic,0,hydrophobic,0,0,0
+Y9T,8V1O,hydrophobic,0,hbond,0,0,0,0,0,0,0,0,0,0,0,0,0,hydrophobic,0,0,0,hbond,0,0,0,0,hydrophobic,hydrophobic,hydrophobic,hydrophobic,0,hydrophobic,0
+YJU,8V2F,hydrophobic,0,0,0,0,0,0,0,0,0,0,0,hydrophobic,0,0,0,hydrophobic,0,0,hydrophobic,hbond,0,0,waterbridge,0,0,hydrophobic,0,hydrophobic,0,hydrophobic,0
+YK0,8V2L,hydrophobic,0,0,0,0,waterbridge,0,0,waterbridge,0,0,0,0,0,0,0,hydrophobic,0,0,hydrophobic,hbond,0,0,0,0,hydrophobic,hydrophobic,hydrophobic,hydrophobic,0,hydrophobic,0
+Y9T,9R9G,hydrophobic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,hydrophobic,0,0,hydrophobic,hbond,0,0,waterbridge,0,0,hydrophobic,hydrophobic,hydrophobic,0,hydrophobic,0
